@@ -1,0 +1,8 @@
+datasets/utd_mhad
+*.ckpt
+*.pyc
+*.MSI
+hparams.yaml
+*.log
+*.wandb
+*.json
